@@ -123,6 +123,7 @@ section {
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -33rem 0;
+    text-wrap: nowrap;
 }
 
 .home.show-animate .home-content .text-animate h3 {
